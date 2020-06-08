@@ -16,12 +16,12 @@
   version = "v1.4.2"
 
 [[projects]]
-  digest = "1:29cf6f8de85fc67197cec7bbcf7a3ee0aae67616b153741b32ac252b682bdea9"
+  digest = "1:351ff717ba9c2d6c3013f8d25329495ab0be6f231726ec0e97dd143992fc8b6f"
   name = "github.com/portto/flow"
   packages = ["protobuf/go/flow/entities"]
   pruneopts = "UT"
-  revision = "169345272290e8472e5e1b459e1d17058917fc79"
-  version = "v0.1.3"
+  revision = "d0a05766218d4c204d4f0eefd4a358074063f8bb"
+  version = "v0.1.5"
 
 [[projects]]
   branch = "master"
