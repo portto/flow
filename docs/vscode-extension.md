@@ -79,8 +79,8 @@ In the vscode extension, submitting transactions and scripts is similar to deplo
 # Changelog
 
 ## Version 0.4.0
-- Upgraded Cadence Language Server to [v0.4.0](https://github.com/onflow/cadence/releases/tag/v0.4.0)
-- Upgraded Flow Emulator to [v0.4.0](https://github.com/onflow/flow/blob/master/docs/emulator.md#version-040)
+- Upgraded Cadence Language Server to [v0.4.0](https://github.com/portto/cadence/releases/tag/v0.4.0)
+- Upgraded Flow Emulator to [v0.4.0](https://github.com/portto/flow/blob/master/docs/emulator.md#version-040)
 - Changed from sequential (e.g. 0x01, 0x02, etc) to linear code address generation 
 
 

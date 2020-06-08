@@ -37,7 +37,7 @@ Learn more about accounts, weighted keys and transactions [in this guide](/docs/
 The Flow Emulator is a feature complete replica of the real network that looks, acts and talks like Flow. You can use the emulator _right now_ to build real applications that are compatible with both testnet and mainnet.
 
 - [Install the emulator](/docs/emulator.md)
-- Follow the examples in the [Flow Go SDK](https://github.com/onflow/flow-go-sdk) to see it in action
+- Follow the examples in the [Flow Go SDK](https://github.com/portto/flow-go-sdk) to see it in action
 
 ### Accessing the Network
 
@@ -53,7 +53,7 @@ The Flow Access API provides a single unified interface for applications and use
 
 You can find an in-depth description of each of the above features in the [Flow Access API Specification](/docs/access-api-spec.md).
 
-To interact with the Flow Access API from JavaScript you can use the [Flow JavaScript SDK](https://github.com/onflow/flow-js-sdk)
+To interact with the Flow Access API from JavaScript you can use the [Flow JavaScript SDK](https://github.com/portto/flow-js-sdk)
 
 ## Documentation
 
@@ -78,8 +78,8 @@ To interact with the Flow Access API from JavaScript you can use the [Flow JavaS
 
 The Flow SDKs provide libraries for applications to connect and interact with the Flow network.
 
-- [Flow Go SDK](https://github.com/onflow/flow-go-sdk)
-- [Flow JS SDK](https://github.com/onflow/flow-js-sdk)
+- [Flow Go SDK](https://github.com/portto/flow-go-sdk)
+- [Flow JS SDK](https://github.com/portto/flow-js-sdk)
 
 ### Development
 

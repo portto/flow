@@ -37,6 +37,6 @@ Simply re-run the installation commands above.
 
 ## Version 0.4.0
 
-- Upgraded Cadence to [v0.4.0](https://github.com/onflow/cadence/releases/tag/v0.4.0)
-- Upgraded Flow Emulator to [v0.4.0](https://github.com/onflow/flow/blob/master/docs/emulator.md#version-040)
-- Upgraded Cadence VS Code Extension to [v0.4.0](https://github.com/onflow/flow/blob/master/docs/vscode-extension.md#version-040)
+- Upgraded Cadence to [v0.4.0](https://github.com/portto/cadence/releases/tag/v0.4.0)
+- Upgraded Flow Emulator to [v0.4.0](https://github.com/portto/flow/blob/master/docs/emulator.md#version-040)
+- Upgraded Cadence VS Code Extension to [v0.4.0](https://github.com/portto/flow/blob/master/docs/vscode-extension.md#version-040)
